@@ -29,7 +29,9 @@ For python
 install the exe only 
 
 Note : If this dosen't work use an IDE [Intregrated Devlopment environment] ("DevC++", "Clion" from jet brains for C, "IntelleJ" from jet brains fro Java, for python use jet brains "Pycharm")
-	   Or just use vim, nano , cat > filename to write code and cmd/ctrl + d to save and to view use cat filename  
+	   
+	   Or just use vim, nano, cat > filename to write code and cmd/ctrl + d to save and to view use cat filename in the terminal
+
 For R instalaltion 
 
 visit : https://posit.co/download/rstudio-desktop/
