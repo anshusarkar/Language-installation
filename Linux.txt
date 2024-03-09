@@ -25,3 +25,7 @@ sudo gdebi rstudio-server-2021.09.1-372-amd64.deb # for rstudio
 or download the R stdio deb package for debian then use 
 
 sudo dpkg -i "filename.deb"
+
+Note : If this dosen't work use an IDE [Intregrated Devlopment environment] ("DevC++", "Clion" from jet brains for C, "IntelleJ" from jet brains fro Java, for python use jet brains "Pycharm")
+	   
+for code writing use Vscode or  just use vim, nano, cat > filename to write code and cmd/ctrl + d to save and to view use cat filename in the terminal
