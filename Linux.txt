@@ -14,5 +14,14 @@ for java installation use command
 
 sudo apt install default-jdk # This will install the defualt-jdk for the specific system of linux
 
-Note : The package manager may varry for every linux system for debian based system it's apt for others it could be pacman or anything .... and even for some the 
+for R installation use command 
 
+sudo apt install r-base r-base-dev # for R-lang
+
+sudo apt-get install gdebi-core
+wget https://download2.rstudio.org/server/bionic/amd64/rstudio-server-2021.09.1-372-amd64.deb
+sudo gdebi rstudio-server-2021.09.1-372-amd64.deb # for rstudio 
+
+or download the R stdio deb package for debian then use 
+
+sudo dpkg -i "filename.deb"

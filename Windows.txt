@@ -28,7 +28,11 @@ For python
 
 install the exe only 
 
-
 Note : If this dosen't work use an IDE [Intregrated Devlopment environment] ("DevC++", "Clion" from jet brains for C, "IntelleJ" from jet brains fro Java, for python use jet brains "Pycharm")
 
+For R instalaltion 
+
+visit : https://posit.co/download/rstudio-desktop/
+
+Download rstudio(IDE), r-lang (language)
 
