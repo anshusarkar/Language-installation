@@ -1,0 +1,34 @@
+For Java and C the envriomant varriable is needed to the seted up 
+
+For C 
+
+check this : https://code.visualstudio.com/docs/cpp/config-mingw
+
+else :
+	install msys2 then install using pacman with this command : pacman -S --needed base-devel mingw-w64-ucrt-x86_64-toolchain
+	then edit the environment varriabel follwing this setps :
+	
+	1) Open "Edit environment variables for your account"
+	2) In "User variables" select "path"
+	3) Or just add a new varriable, name of which can be anything 
+	4) Then add this path "C:\msys64\ucrt64\bin" to varriable value if installed on the installer provided directory
+	5) else for Custom installation locate "msys64\ucrt64\bin" and add the newly formed path to varriable value
+
+For Java
+
+If the installation path is the defualt one then 
+
+The envrionment varraiabel path shoud be this
+
+C:\WINDOWS\system32;C:\WINDOWS;"C:\Program Files\Java\jdk-13\bin"
+
+environment varriable name can be anything .... for Java 
+
+For python 
+
+install the exe only 
+
+
+Note : If this dosen't work use an IDE [Intregrated Devlopment environment] ("DevC++", "Clion" from jet brains for C, "IntelleJ" from jet brains fro Java, for python use jet brains "Pycharm")
+
+

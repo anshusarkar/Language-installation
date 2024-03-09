@@ -1,0 +1,18 @@
+for C lang installation use command
+
+sudo apt install gcc 
+
+for C++ installation use command
+
+sudo apt install g++
+
+for Python installtion use command
+
+sudo apt install python
+
+for java installation use command 
+
+sudo apt install default-jdk # This will install the defualt-jdk for the specific system of linux
+
+Note : The package manager may varry for every linux system for debian based system it's apt for others it could be pacman or anything .... and even for some the 
+
